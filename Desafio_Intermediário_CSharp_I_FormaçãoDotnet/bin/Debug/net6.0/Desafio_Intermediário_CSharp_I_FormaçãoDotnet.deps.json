@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio_Intermediário_CSharp_I_FormaçãoDotnet/1.0.0": {
+        "runtime": {
+          "Desafio_Intermediário_CSharp_I_FormaçãoDotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio_Intermediário_CSharp_I_FormaçãoDotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
